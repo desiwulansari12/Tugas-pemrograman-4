@@ -1,0 +1,9 @@
+Jenis-Jenis operator pada pyhton
+
+1. operator arimatika = operator yang digunakan dengan nilai numerik untuk melakukan operasi matematika umum. seperti penjumlahan, pengurangan, perkalian, dll.
+2. operator perbandingan = Operator yang  digunakan untuk membandingkan dua nilai atau variabel.
+3. operator penugasan = operator yang digunakan untuk menetapkan nilai ke variabel.
+4. operator logika = Operator yang digunakan untuk melakukan operasi logika, seperti AND, OR, dan NOT.
+5. operator indentitas = operatoryang  digunakan untuk membandingkan objek, bukan jika mereka sama, tetapi jika mereka sebenarnya adalah objek yang sama, dengan lokasi memori yang sama.
+6. operator keanggotaan = Operator yang digunakan untuk memeriksa apakah nilai berada dalam sebuah koleksi (misalnya list, tuple, dll).
+7. operator bitwise = Operator yang digunakan untuk melakukan operasi bitwise pada bilangan bulat.
